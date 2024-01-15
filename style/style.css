@@ -165,6 +165,18 @@ main{
 .sponsors-img-container img{
     width: 165px;
 }
+/* footer area start */
+.footer-area{
+    background-color: #FFF4E7;
+    border-radius: 8px;
+    margin-top: 130px;
+    margin-bottom: 50px;
+    width: 100%;
+    padding: 30px;
+}
+.footer-area .footer-discription{
+    text-align: center;
+}
 /* responsive media quaries  */
 /* mobile device  */
 @media screen and (max-width:576px) {
